@@ -1,0 +1,2 @@
+#!/bin/sh
+for f in `ls */*`; do yes no |rar e $f; done
