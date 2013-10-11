@@ -15,3 +15,6 @@ Creates an itunes-compatible RSS feed, and MP3 file, of the latest episode of A 
 
 ##unrar-torrents
 Traverses a folder filed with torrents that have a series of segmented rar files in second level directories, unrars them, cleans up the mess. You know, for linux ISOs. Bash.
+
+##wma2mp3
+Converts all .wma (or .WMA, or .wMa or whatever misery windows wishes to inflict) files in the present working directory to .mp3. Requires mplayer and lame.
